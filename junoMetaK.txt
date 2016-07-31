@@ -1,0 +1,12 @@
+\begindata
+KERNELS_TO_LOAD=(
+'naif0012.tls',
+'JNO_SCLKSCET.00040.tsc',
+'pck00010.tpc',
+'spk_ref_160226_180221_160226.bsp',
+'de434s.bsp',
+'jup310.bsp',
+'juno_sc_nom_110807_171016_v01.bc',
+'juno_v08.tf',
+'juno_struct_v01.ti')
+\begintext
